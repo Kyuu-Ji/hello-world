@@ -86,7 +86,7 @@
     <td>Lame</td>
     <td>Linux</td>
     <td>11th June 2017</td>
-    <td id="green">Easy</td>
+    <td>![#f03c15](Easy)</td>
     <td>Metasploit</td>
     <td>CVE</td>
     <td>:heavy_check_mark:</td>
