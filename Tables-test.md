@@ -4,7 +4,6 @@
     <th>OS</th>
     <th>Retirement Date</th>
     <th>Difficulty</th>
-    <th>Tools</th>
     <th>Tags</th>
     <th>Completed</th>
     <th>Alternative Way</th>
@@ -15,7 +14,6 @@
     <td>Linux</td>
     <td>1st September 2017</td>
     <td>:black_circle: Insane</td>
-    <td>Wpscan, John, Custom scripting</td>
     <td>
       <ul>
         <li>WordPress</li>
@@ -31,7 +29,6 @@
     <td>Linux</td>
     <td>5th August 2017</td>
     <td>:orange_circle: Medium</td>
-    <td>Sqlmap</td>
     <td>
       <ul>
         <li>DNS</li>
@@ -47,7 +44,6 @@
     <td>Linux</td>
     <td>16th July 2017</td>
     <td>:orange_circle: Medium</td>
-    <td>Wpscan, Steghide</td>
     <td>
       <ul>
         <li>CVE (WordPress)</li>
@@ -62,7 +58,6 @@
     <td>Windows</td>
     <td>7th July 2017</td>
     <td>:green_circle: Easy</td>
-    <td>Metasploit</td>
     <td>CVE (Adobe Coldfusion)</td>
     <td>:heavy_check_mark:</td>
     <td>:x:</td>
@@ -72,7 +67,6 @@
     <td>Linux</td>
     <td>1st July 2017</td>
     <td>:orange_circle: Medium</td>
-    <td>Custom scripting, gdb</td>
     <td>
       <ul>
         <li>Binary Exploitation</li>
@@ -87,7 +81,6 @@
     <td>Linux</td>
     <td>25th June 2017</td>
     <td>:orange_circle: Medium</td>
-    <td>-</td>
     <td>
       <ul>
         <li>Unrestricted File Upload</li>
@@ -102,7 +95,6 @@
     <td>Windows</td>
     <td>18th June 2017</td>
     <td>:green_circle: Easy</td>
-    <td>Metasploit</td>
     <td>CVE</td>
     <td>:heavy_check_mark:</td>
     <td>:x:</td>
@@ -112,7 +104,6 @@
     <td>Linux</td>
     <td>11th June 2017</td>
     <td>:green_circle: Easy</td>
-    <td>Metasploit</td>
     <td>CVE</td>
     <td>:heavy_check_mark:</td>
     <td>:x:</td>
