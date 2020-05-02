@@ -1,10 +1,3 @@
-<style>
-#green{color: green;}
-#orange{color: orange;}
-#red{color: red;}
-#black{color: black;}
-</style>
-
 <table>
   <tr>
     <th>Name</th>
@@ -18,10 +11,42 @@
   </tr>
 
   <tr>
+    <td>Brainfuck</td>
+    <td>Linux</td>
+    <td>1st September 2017</td>
+    <td>:black_circle: Insane</td>
+    <td>Wpscan, John, Custom scripting</td>
+    <td>
+      <ul>
+        <li>WordPress</li>
+        <li>Keyed Vigenere Cipher</li>
+        <li>RSA decryption</li>
+      </ul>
+    </td>
+    <td>:heavy_check_mark:</td>
+    <td>:x:</td>
+  </tr>
+  <tr>
+    <td>Cronos</td>
+    <td>Linux</td>
+    <td>5th August 2017</td>
+    <td>:orange_circle: Medium</td>
+    <td>Sqlmap</td>
+    <td>
+      <ul>
+        <li>DNS</li>
+        <li>Web Exploitation</li>
+        <li>Laravel</li>
+      </ul>
+    </td>
+    <td>:heavy_check_mark:</td>
+    <td>:x:</td>
+  </tr>
+  <tr>
     <td>Tenten</td>
     <td>Linux</td>
     <td>16th July 2017</td>
-    <td id="orange">Medium</td>
+    <td>:orange_circle: Medium</td>
     <td>Wpscan, Steghide</td>
     <td>
       <ul>
@@ -36,7 +61,7 @@
     <td>Arctic</td>
     <td>Windows</td>
     <td>7th July 2017</td>
-    <td id="green">Easy</td>
+    <td>:green_circle: Easy</td>
     <td>Metasploit</td>
     <td>CVE (Adobe Coldfusion)</td>
     <td>:heavy_check_mark:</td>
@@ -46,8 +71,8 @@
     <td>October</td>
     <td>Linux</td>
     <td>1st July 2017</td>
-    <td id="orange">Medium</td>
-    <td>gdb, Custom scripting</td>
+    <td>:orange_circle: Medium</td>
+    <td>Custom scripting, gdb</td>
     <td>
       <ul>
         <li>Binary Exploitation</li>
@@ -61,7 +86,7 @@
     <td>Popcorn</td>
     <td>Linux</td>
     <td>25th June 2017</td>
-    <td id="orange">Medium</td>
+    <td>:orange_circle: Medium</td>
     <td>-</td>
     <td>
       <ul>
@@ -76,7 +101,7 @@
     <td>Legacy</td>
     <td>Windows</td>
     <td>18th June 2017</td>
-    <td id="green">Easy</td>
+    <td>:green_circle: Easy</td>
     <td>Metasploit</td>
     <td>CVE</td>
     <td>:heavy_check_mark:</td>
@@ -86,7 +111,7 @@
     <td>Lame</td>
     <td>Linux</td>
     <td>11th June 2017</td>
-    <td>![#f03c15](Easy)</td>
+    <td>:green_circle: Easy</td>
     <td>Metasploit</td>
     <td>CVE</td>
     <td>:heavy_check_mark:</td>
